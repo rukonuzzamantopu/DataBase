@@ -7,7 +7,7 @@ This repository contains MySQL solutions for lab exercises,CLP(continewas lab pa
 - **Solved Problems**: Solutions to manual problems provided in the lab.
 - **CLP**:continewas lab parpomanse problem soluations
 - **Lab Final**: Final lab problem-solving  solutions.
-
+---
 ## How to Use:
 1. Clone the repository to your local machine:
    ```bash
